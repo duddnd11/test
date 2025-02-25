@@ -1,1 +1,7 @@
 dummy 수정
+
+reset을 위한 dummy text1
+
+reset을 위한 dummy text2
+
+reset을 위한 dummy text3
