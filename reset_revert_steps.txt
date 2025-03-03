@@ -1,0 +1,18 @@
+1) touch reset_test.txt
+2) vim reset_test.txt
+3) reset test commit 1!! :wq!
+4) git add
+5) git commit -reset_test.txt "첫 번째 커밋"
+6) vim reset_test.txt
+7) 두번째 커밋테스트! 두번째 커밋테스트!1 :wq!
+8) git add
+9) git commit -reset_test.txt "두 번째 커밋"
+10) vim reset_test.txt
+11) 세번째 --- :wq!
+12) git add
+13) git commit -reset_test.txt "세 번째 커밋"
+14) vim reset_test.txt
+15) 네 번째~~- :wq!
+16) git add
+17) git commit -reset_test.txt "네 번째 커밋"
+18) git revert f3f86be
